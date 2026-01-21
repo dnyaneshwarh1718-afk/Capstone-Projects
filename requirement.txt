@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
+sklearn
+mysql-connector-python
+SQLAlchemy
 -e .
